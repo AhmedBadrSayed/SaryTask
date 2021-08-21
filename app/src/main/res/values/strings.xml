@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sary Task</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="title_home">Home</string>
+    <string name="title_store">Store</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
